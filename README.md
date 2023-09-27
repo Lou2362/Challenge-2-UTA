@@ -1,2 +1,2 @@
 # Challenge-2-UTA
-Creating the portfolio able to understand how to use the html and css adn well knwoin g different type of parent and child in the code
+Creating the portfolio to able understand how to use html and css as well knowing different type of parent and child in the code.
